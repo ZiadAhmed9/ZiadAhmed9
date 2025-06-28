@@ -1,11 +1,10 @@
 <h3 align="center">A passionate embedded software developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Embedded Linux and OS**
-
+- 🌱 I’m currently working in Autonmous Vehicles Software
+- 💻 I'm Freelancing in Web Develoment
+- 🤖 I'm INterested in AI/ML
 - 💬 Ask me about **C and C++**
-
 - 📫 How to reach me **zeyadahmed0@gmail.com**
-
 - ⚡ Fun fact **Even your DNA is a "CODE"**
 
 <h3 align="left">Connect with me:</h3>
