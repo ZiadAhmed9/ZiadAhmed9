@@ -1,8 +1,8 @@
 <h3 align="center">A passionate embedded software developer from Egypt</h3>
 
-- 🌱 I’m currently working in Autonmous Vehicles Software
-- 💻 I'm Freelancing in Web Develoment
-- 🤖 I'm INterested in AI/ML
+- 🌱 I’m currently working in Autonmous Vehicles Software and SDVs
+- 💻 I'm Freelancing in Web Develoment and Embedded Linux
+- 🤖 I'm Interested in AI/ML
 - 💬 Ask me about **C and C++**
 - 📫 How to reach me **zeyadahmed0@gmail.com**
 - ⚡ Fun fact **Even your DNA is a "CODE"**
