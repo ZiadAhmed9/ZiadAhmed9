@@ -4,7 +4,7 @@
 - 💻 I'm Freelancing in Web Develoment and Embedded Linux
 - 🤖 I'm Interested in AI/ML
 - 💬 Ask me about **C and C++**
-- 📫 How to reach me **zeyadahmed0@gmail.com**
+- 📫 How to reach me **eng.ziadahmed03@gmail.com**
 - ⚡ Fun fact **Even your DNA is a "CODE"**
 
 <h3 align="left">Connect with me:</h3>
