@@ -3,7 +3,7 @@
 - 🌱 I’m currently working in Autonmous Vehicles Software and SDVs
 - 💻 I'm Freelancing in Web Develoment and Embedded Linux
 - 🤖 I'm Interested in AI/ML
-- 💬 Ask me about **C and C++**
+- 💬 Ask me about **C, C++, and Rust**
 - 📫 How to reach me **eng.ziadahmed03@gmail.com**
 - ⚡ Fun fact **Even your DNA is a "CODE"**
 
