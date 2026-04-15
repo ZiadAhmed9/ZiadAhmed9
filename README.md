@@ -26,20 +26,7 @@ Linux • Yocto • AUTOSAR Adaptive • QNX • Networking • Diagnostics
 React • Node.js • Supabase • REST APIs  
 
 **Tools:**  
-Git • Docker • Postman • VectorCAST  
-
----
-
-### 📌 Featured Projects
-- 🧠 **Clario Gym App**  
-  Full-stack fitness platform with coach-trainee system, subscriptions, and workout planning  
-  → React + Node.js + Supabase  
-
-- 🤖 **Dental AI Web App (In Progress)**  
-  AI-powered dental analysis with paid reports and booking system  
-
-- ⚙️ **Embedded Diagnostics System**  
-  Adaptive AUTOSAR-based diagnostic mapping and event handling  
+Git • Docker • Postman • VectorCAST
 
 ---
 
