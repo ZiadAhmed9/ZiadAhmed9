@@ -18,17 +18,36 @@ Building reliable software for Autonomous Systems & Software-Defined Vehicles �
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-C • C++ • Rust • Python • JavaScript  
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  </a>
+</p>
 
-**Embedded & Systems:**  
-Linux • Yocto • AUTOSAR Adaptive • QNX • Networking • Diagnostics  
+---
 
-**Web:**  
-React • Node.js • Supabase  
-
-**Tools:**  
-Git • Docker • Postman • VectorCAST  
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAhmed9&layout=compact&langs_count=6&hide=html,css" />
+</p>
 
 ---
 
