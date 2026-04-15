@@ -32,19 +32,6 @@ Git • Docker • Postman • VectorCAST
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiadAhmed9&show_icons=true&theme=default" />
-</p>
-
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAhmed9&layout=compact&langs_count=6&hide=html,css" />
-</p>
-
----
-
 ### 📫 Contact
 - 📧 eng.ziadahmed03@gmail.com
 
