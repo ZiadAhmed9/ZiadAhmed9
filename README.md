@@ -1,19 +1,53 @@
-<h3 align="center">A passionate embedded software developer from Egypt</h3>
+<h2 align="center">Embedded Software Engineer | AUTOSAR | Linux | C++ | Rust</h2>
 
-- 🌱 I’m currently working in Autonmous Vehicles Software and SDVs
-- 💻 I'm Freelancing in Web Develoment and Embedded Linux
-- 🤖 I'm Interested in AI/ML
-- 💬 Ask me about **C, C++, and Rust**
-- 📫 How to reach me **eng.ziadahmed03@gmail.com**
-- ⚡ Fun fact **Even your DNA is a "CODE"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building reliable software for Software-Defined Vehicles (SDV) and beyond 🚗
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
-       alt="rust" width="40" height="40"/>
-</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me
+- 🔧 Embedded Linux Engineer working on **Autonomous Driving & SDV systems**
+- 🧠 Experienced in **Adaptive AUTOSAR, Diagnostics (SOA), and C++ development**
+- ⚙️ Strong background in **low-level systems, performance, and debugging**
+- 🌐 Expanding into **Full-Stack Development (React, Node.js, Supabase)**
+- 🤖 Currently exploring **AI applications in real-world systems**
+
+---
+
+### 🛠️ Tech Stack
+**Languages:**  
+C • C++ • Rust • Python • JavaScript  
+
+**Embedded & Systems:**  
+Linux • Yocto • AUTOSAR Adaptive • QNX • Networking • Diagnostics  
+
+**Web & Backend:**  
+React • Node.js • Supabase • REST APIs  
+
+**Tools:**  
+Git • Docker • Postman • VectorCAST  
+
+---
+
+### 📌 Featured Projects
+- 🧠 **Clario Gym App**  
+  Full-stack fitness platform with coach-trainee system, subscriptions, and workout planning  
+  → React + Node.js + Supabase  
+
+- 🤖 **Dental AI Web App (In Progress)**  
+  AI-powered dental analysis with paid reports and booking system  
+
+- ⚙️ **Embedded Diagnostics System**  
+  Adaptive AUTOSAR-based diagnostic mapping and event handling  
+
+---
+
+### 📫 Contact
+- 📧 **eng.ziadahmed03@gmail.com**
+- 💼 (Add LinkedIn here — seriously, don’t skip this)
+
+---
+
+### ⚡ Fun Fact
+Even your DNA is code… but mine compiles 😄
