@@ -32,7 +32,6 @@ Git • Docker • Postman • VectorCAST
 
 ### 📫 Contact
 - 📧 **eng.ziadahmed03@gmail.com**
-- 💼 (Add LinkedIn here — seriously, don’t skip this)
 
 ---
 
