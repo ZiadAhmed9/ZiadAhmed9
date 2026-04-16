@@ -9,7 +9,7 @@ Building reliable software for Autonomous Systems & Software-Defined Vehicles �
 
 ### 🚀 About Me
 - 🔧 Embedded Linux Engineer working on **Autonomous Driving & SDV systems**
-- 🧠 Experienced in **Adaptive AUTOSAR, Diagnostics (SOA), and C++**
+- 🧠 Experienced in **Adaptive AUTOSAR, Diagnostics (SOA), Rust, and C++**
 - ⚙️ Strong focus on **low-level systems, performance, and debugging**
 - 🌐 Building **full-stack apps (React, Node.js, Supabase)**
 - 🤖 Exploring **AI applications in real-world systems**
